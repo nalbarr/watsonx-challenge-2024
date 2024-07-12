@@ -1,0 +1,3 @@
+IBM Research is the research and development division for IBM, an American multinational information technology company headquartered in Armonk, New York, with operations in over 170 countries. IBM Research is the largest industrial research organization in the world and has twelve labs on six continents.[1]
+
+IBM employees have garnered six Nobel Prizes, six Turing Awards, 20 inductees into the U.S. National Inventors Hall of Fame, 19 National Medals of Technology, five National Medals of Science and three Kavli Prizes.[2] As of 2018, the company has generated more patents than any other business in each of 25 consecutive years, which is a record.[3]
