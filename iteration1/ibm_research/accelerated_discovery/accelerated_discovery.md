@@ -1,0 +1,1 @@
+The world is changing rapidly every day, and the way we used to solve problems won’t cut it anymore. At IBM Research, we’re combining our expertise in quantum computing, AI, and hybrid cloud to drastically increase how quickly we can discover solutions to tackle today’s most urgent problems.
